@@ -1,0 +1,111 @@
+{
+  "cities": [
+    {
+      "_id":4070245,
+      "name":"Jones Crossroads",
+      "country":"US",
+      "coord": {
+        "lon":-85.484657,
+        "lat":31.21073
+      }
+    },
+    {
+      "_id":4344544,
+      "name":"Vernon Parish",
+      "country":"US",
+      "coord": {
+        "lon":-93.183502,
+        "lat":31.11685
+      }
+    },
+    {
+      "_id":4215307,
+      "name":"Pennick",
+      "country":"US",
+      "coord": {
+        "lon":-81.55899,
+        "lat":31.313
+      }
+    },
+    {
+      "_id":5285039,
+      "name":"Black Bear Spring",
+      "country":"US",
+      "coord": {
+        "lon":-110.288139,
+        "lat":31.386209
+      }
+    },
+    {
+      "_id":4673179,
+      "name":"Bee House",
+      "country":"US",
+      "coord":{
+        "lon":-98.081139,
+        "lat":31.40266
+      }
+    },
+    {
+      "_id":4047656,
+      "name":"Provo",
+      "country":"US",
+      "coord":{
+        "lon":-94.107697,
+        "lat":34.037609
+      }
+    },
+    {"_id":5493998,"name":"Tejon","country":"US","coord":{"lon":-105.28611,"lat":34.58979}},
+    {"_id":5815135,"name":"Washington","country":"US","coord":{"lon":-120.501472,"lat":47.500118}},
+    {"_id":5391891,"name":"San Dimas","country":"US","coord":{"lon":-117.806732,"lat":34.106682}},
+    {"_id":4056099,"name":"Coffee County","country":"US","coord":{"lon":-86.000221,"lat":31.41683}},
+    {"_id":4151245,"name":"Clay County","country":"US","coord":{"lon":-81.833153,"lat":29.99968}},
+    {"_id":4155535,"name":"Flagler County","country":"US","coord":{"lon":-81.291451,"lat":29.45859}},
+    {"_id":4158449,"name":"Hernando County","country":"US","coord":{"lon":-82.458153,"lat":28.541941}},
+    {"_id":4174301,"name":"Sumter County","country":"US","coord":{"lon":-82.083138,"lat":28.708599}},
+    {"_id":4196508,"name":"Fulton County","country":"US","coord":{"lon":-84.449928,"lat":33.766769}},
+    {"_id":4191014,"name":"DeKalb County","country":"US","coord":{"lon":-84.233253,"lat":33.750381}},
+    {"_id":4255818,"name":"Clark County","country":"US","coord":{"lon":-85.761353,"lat":38.483398}},
+    {"_id":4310411,"name":"Sylvania","country":"US","coord":{"lon":-85.87413,"lat":38.157009}},
+    {"_id":4287837,"name":"Clark County","country":"US","coord":{"lon":-84.266602,"lat":37.98341}},
+    {"_id":4347820,"name":"City of Baltimore","country":"US","coord":{"lon":-76.61219,"lat":39.290379}},
+    {"_id":7198188,"name":"Cashell Estates","country":"US","coord":{"lon":-77.138702,"lat":39.137199}},
+    {"_id":4372589,"name":"Wakely Terrace","country":"US","coord":{"lon":-76.334961,"lat":39.525661}},
+    {"_id":4406835,"name":"Saint Charles County","country":"US","coord":{"lon":-90.733459,"lat":38.76672}},
+    {"_id":4407084,"name":"City of Saint Louis","country":"US","coord":{"lon":-90.197891,"lat":38.62727}},
+    {"_id":4422178,"name":"Coahoma County","country":"US","coord":{"lon":-90.567879,"lat":34.217892}},
+    {"_id":4431425,"name":"Jackson County","country":"US","coord":{"lon":-88.6278,"lat":30.42325}},
+    {"_id":4481511,"name":"Nash County","country":"US","coord":{"lon":-77.96637,"lat":35.96682}},
+    {"_id":4475520,"name":"Lee County","country":"US","coord":{"lon":-79.183083,"lat":35.46682}},
+    {"_id":4527624,"name":"Warren County","country":"US","coord":{"lon":-84.166603,"lat":39.433392}},
+    {"_id":4534444,"name":"Creek County","country":"US","coord":{"lon":-96.400291,"lat":35.900082}},
+    {"_id":4592843,"name":"Richland County","country":"US","coord":{"lon":-80.916481,"lat":34.016819}},
+    {"_id":4735729,"name":"Taylor County","country":"US","coord":{"lon":-99.833702,"lat":32.300129}},
+    {"_id":4697444,"name":"Hidalgo County","country":"US","coord":{"lon":-98.200287,"lat":26.333679}},
+    {"_id":4740157,"name":"Washington County","country":"US","coord":{"lon":-96.400238,"lat":30.233549}},
+    {"_id":4739690,"name":"Walker County","country":"US","coord":{"lon":-95.566887,"lat":30.73353}},
+    {"_id":4703071,"name":"Kerr County","country":"US","coord":{"lon":-99.300323,"lat":30.050211}},
+    {"_id":4744106,"name":"City of Alexandria","country":"US","coord":{"lon":-77.046921,"lat":38.80484}},
+    {"_id":4749005,"name":"City of Bristol","country":"US","coord":{"lon":-82.188469,"lat":36.596489}},
+    {"_id":4752046,"name":"City of Charlottesville","country":"US","coord":{"lon":-78.476677,"lat":38.029308}},
+    {"_id":4752215,"name":"City of Chesapeake","country":"US","coord":{"lon":-76.312157,"lat":36.687649}},
+    {"_id":4753684,"name":"City of Colonial Heights","country":"US","coord":{"lon":-77.410263,"lat":37.244041}},
+    {"_id":4755298,"name":"City of Danville","country":"US","coord":{"lon":-79.39502,"lat":36.585972}},
+    {"_id":4758109,"name":"City of Fairfax","country":"US","coord":{"lon":-77.306374,"lat":38.846218}},
+    {"_id":4760084,"name":"City of Fredericksburg","country":"US","coord":{"lon":-77.460541,"lat":38.303181}},
+    {"_id":4763237,"name":"City of Harrisonburg","country":"US","coord":{"lon":-78.868919,"lat":38.44957}},
+    {"_id":4764849,"name":"City of Hopewell","country":"US","coord":{"lon":-77.287201,"lat":37.304321}},
+    {"_id":4771099,"name":"City of Lynchburg","country":"US","coord":{"lon":-79.14225,"lat":37.41375}},
+    {"_id":4771426,"name":"City of Manassas","country":"US","coord":{"lon":-77.475273,"lat":38.75095}},
+    {"_id":4776037,"name":"City of Newport News","country":"US","coord":{"lon":-76.508011,"lat":37.062649}},
+    {"_id":4776242,"name":"City of Norfolk","country":"US","coord":{"lon":-76.261879,"lat":36.891258}},
+    {"_id":4778642,"name":"City of Petersburg","country":"US","coord":{"lon":-77.401932,"lat":37.227928}},
+    {"_id":4780019,"name":"City of Portsmouth","country":"US","coord":{"lon":-76.354668,"lat":36.85487}},
+    {"_id":4780851,"name":"City of Radford","country":"US","coord":{"lon":-80.576447,"lat":37.13179}},
+    {"_id":4781756,"name":"City of Richmond","country":"US","coord":{"lon":-77.460258,"lat":37.553761}},
+    {"_id":4782241,"name":"City of Roanoke","country":"US","coord":{"lon":-79.941429,"lat":37.270969}},
+    {"_id":4784205,"name":"City of Salem","country":"US","coord":{"lon":-80.054764,"lat":37.293468}},
+    {"_id":4788160,"name":"City of Suffolk","country":"US","coord":{"lon":-76.608009,"lat":36.708481}},
+    {"_id":4787467,"name":"City of Staunton","country":"US","coord":{"lon":-79.071701,"lat":38.149578}},
+    {"_id":4792534,"name":"City of Waynesboro","country":"US","coord":{"lon":-78.889473,"lat":38.06847}}
+  ]
+}
